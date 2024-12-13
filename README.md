@@ -1,7 +1,7 @@
 Presentation Video Set: https://www.youtube.com/playlist?list=PLrzj2BaSw3P2E01v9Ya7xquEsipgsSIu0
 
 # Voice Controlled Device
-![**Pre-Accounting Automation (Image)**](pre-account-automation.jpg)  
+![**Pre-Accounting Automation (Image)**](Voice-Robot-Hos-Geldiniz.JPG)  
 
 
 ## Project Overview
