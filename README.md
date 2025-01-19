@@ -1,7 +1,7 @@
 Presentation Video Set: https://www.youtube.com/playlist?list=PLrzj2BaSw3P2E01v9Ya7xquEsipgsSIu0
 
 # Voice Controlled Device
-![**Pre-Accounting Automation (Image)**](Online- Shopping- Platform.webp)  
+![**Pre-Accounting Automation (Image)**](OnlineShoppingPlatform.jpg)  
 
 
 ## Project Overview
